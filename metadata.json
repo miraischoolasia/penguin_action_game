@@ -1,0 +1,6 @@
+{
+  "name": "Penguin Runner Game",
+  "description": "An exciting, high-performance HTML5 canvas penguin parkour runner game featuring fluid jumping, sliding, obstacles, fish collections, and skins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
