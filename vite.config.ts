@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/penguin_action_game/', 
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
